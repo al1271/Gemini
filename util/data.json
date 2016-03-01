@@ -1,0 +1,69 @@
+{
+"inv":[{
+    "name":"car", 
+    "quantity":10,
+    "description":"A car is a wheeled, self-powered motor vehicle used for transportation and a product of the automotive industry. Most definitions of the term specify that cars are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels with tyres, and to be constructed principally for the transport of people rather than goods.", 
+    image:""
+    }, 
+    {
+        "name":"phone", 
+        "quantity":4, 
+        "description":"A telephone, or phone, is a telecommunications device that permits two or more users to conduct a conversation when they are too far apart to be heard directly.", 
+        image:""
+    }, 
+    {
+        "name":"pineapple",
+        "quantity":3, 
+        "description":"The pineapple (Ananas comosus) is a tropical plant with edible multiple fruit consisting of coalesced berries, also called pineapples.",
+        image:""
+    },
+    {
+        "name":"cat", 
+        "quantity":9, 
+        "description":"The domesticated cat (Latin: Felis catus) or the undomesticated cat (Latin: Felis silvestris catus) is a small, typically furry, carnivorous mammal.", 
+        image:""
+    },
+    {
+        "name":"asteroid", 
+        "quantity":24, 
+        "description":"Asteroids are minor planets, especially those of the inner Solar System. The larger ones have also been called planetoids.", 
+        image:""
+    },
+    {
+        "name":"person", 
+        "quantity":4, 
+        "description":"A human", 
+        image:""
+    },
+    {
+        "name":"facebook", 
+        "quantity":1, 
+        "description":"Facebook is a corporation and online social networking service headquartered in Menlo Park, California, in the United States.", 
+        image:""
+    },
+    {
+        "name":"computer", 
+        "quantity":4, 
+        "description":"A computer is a general purpose device that can be programmed to carry out a set of arithmetic or logical operations automatically. Since a sequence of operations can be readily changed, the computer can solve more than one kind of problem.", 
+        image:""
+    },
+    {
+        "name":"TV", 
+        "quantity":9, 
+        "description":"Television is a telecommunication medium used for transmitting sound with moving images in monochrome (black-and-white), or in color, and in two or three dimensions. It can refer to a television set, a television program, or the medium of television transmission. Television is a mass medium, for entertainment, education, news and advertising.", 
+        image:""
+    },
+    {
+        "name":"internets", 
+        "quantity":12, 
+        "description":"Internets, also known as The Internets, is a Bushism-turned-catchphrase used humorously to portray the speaker as ignorant about the Internet or about technology in general, or as having a provincial or folksy attitude toward technology.", 
+        image:""
+    },
+    {
+        "name":"otherStuff", 
+        "quantity":7, 
+        "description":"Psyical matter", 
+        image:""
+    },
+]
+}
